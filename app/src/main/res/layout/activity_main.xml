@@ -8,7 +8,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="dev.edmt.todolist.MainActivity">
+    tools:context="dev.edmt.todolist.dev.univel.todolist.MainActivity">
 
     <ListView
         android:id="@+id/lstTask"
